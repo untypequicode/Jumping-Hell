@@ -19,11 +19,26 @@ O Fortunae - Carmina Bunara, played on cello by us
   <img src="doc/pict_learn.png" width="49%" /> 
 </p>
 <p align="center">
-  <img src="doc/pict_play_1.png" width="32%" />
-  <img src="doc/pict_play_2.png" width="32%" /> 
-  <img src="doc/pict_play_3.png" width="32%" />
+  <img src="doc/pict_death.png" width="49%" /> 
+  <img src="doc/pict_game_over.png" width="49%" />
 </p>
 <p align="center">
-  <img src="doc/pict_level.png" width="49%" />
-  <img src="doc/pict_game_over.png" width="49%" /> 
+  <img src="doc/pict_play_1.png" width="49%" />
+  <img src="doc/pict_play_6.png" width="49%" /> 
+</p>
+<p align="center">
+  <img src="doc/pict_play_2.png" width="49%" />
+  <img src="doc/pict_play_7.png" width="49%" /> 
+</p>
+<p align="center">
+  <img src="doc/pict_play_3.png" width="49%" />
+  <img src="doc/pict_play_8.png" width="49%" /> 
+</p>
+<p align="center">
+  <img src="doc/pict_play_4.png" width="49%" />
+  <img src="doc/pict_play_9.png" width="49%" /> 
+</p>
+<p align="center">
+  <img src="doc/pict_play_4.png" width="49%" />
+  <img src="doc/pict_play_10.png" width="49%" /> 
 </p>
