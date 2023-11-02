@@ -1,6 +1,6 @@
 # Jumping Hell
 
-In JumpingHell, you are jumping from platforms to platforms. If you fall down, you dead and you land to the hell. You need to escape quickly and come back to life.When you are into Hell, try to go back to the real world.
+In LetMeDiiiiie, you are between the death and the live, but you don't want to rebirthing. The only way to be dead is to be killed by Cerber, the tree monkeys heads monster. If you don't succeed, you are coming back to live, and you lose.
 
 ## Contributors
 
