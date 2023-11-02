@@ -6,7 +6,7 @@ In JumpingHell, you are jumping from platforms to platforms. If you fall down, y
 
 [@untypequicode](https://github.com/untypequicode) : programing, UI, animations, music
 
-[@bug](#) : 3d modeling, level design, music
+[@bug](https://www.linkedin.com/in/elio-puyou/) : 3d modeling, level design, music
 
 ## Music
 
